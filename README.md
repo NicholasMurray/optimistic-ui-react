@@ -4,6 +4,8 @@ A React app that demonstrates the concept of updating the UI pending a network u
 
 This gives the UI a more responsive feel while still responding to network update failures.
 
+Click on the hearts to view the app handling succcessful and failed updates.
+
 ## Available Scripts
 
 In the project directory, you can run:
